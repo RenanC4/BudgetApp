@@ -8,10 +8,9 @@
     "http-post": "^0.1.1",
     "http-proxy": "^1.8.1"
   },
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
+  "main": "index.html",
+  
+  
   "repository": {
     "type": "git",
     "url": "https://github.com/RenanC4/BudgetApp"
